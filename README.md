@@ -1,4 +1,4 @@
-# OtpBotLaGuaguaPro
+# Otp Bot | telegram otp bot | android otp bot | by LaGuaguaPro
 
 # 🚀🤖 OTP Bot Fully Automated by Laguagua.pro! 🌟📱
 
