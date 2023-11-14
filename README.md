@@ -11,10 +11,10 @@ Dive into the future of automation with the most advanced Android OTP Bot in his
 
 ## Pricing Breakdown:
 
-- 🏷 **Package Cost**: $250 
-  - 🔧 **Installation Fee**: $100 (One-time payment per computer)
+- 🏷 **Package Cost**: $450 
+  - 🔧 **Installation Fee**: $250 (One-time payment per computer)
   - 📜 **License**: $100 (Valid for 1 week)
-  - 📞 **Calling Minutes**: Minimum recharge of $10, priced at $0.02 per call.
+  - 📞 **Calling Minutes**: Include $100 Minimum recharge of $10, priced at $0.02 per call.
 
 Armed with cutting-edge technology and unprecedented functionalities, our bot stands out as the pinnacle in automated OTP management. Why lag behind when you can lead with innovation? Ensure seamless operations, be it for verification, transactions, or any other OTP-requiring process.
 
